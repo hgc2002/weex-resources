@@ -1,9 +1,8 @@
 # weex-resources
 Useful resources for Weex Framework programming & its growing worldwide community
 
-------------------------------------------
-Currently under construction. I Apologize.
-------------------------------------------
+> Currently under construction. I Apologize.
+
 
 ## Main links
 
