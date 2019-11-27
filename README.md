@@ -19,9 +19,10 @@ Currently under construction. I Apologize.
 * Web based but with healthy limits (thanks, God!): https://weex.apache.org/guide/platform-difference.html#no-dom-in-weex
 * Weex variable in every page: https://weex.apache.org/docs/api/weex-variable.html#properties-and-methods
 
-## Examples
+## Examples & repositories
 
 * Wonderful: https://hanks10100.github.io/weex-vue-examples/
+* Repositories in GitHub: https://github.com/search?q=weex
 
 ## Tutorials
 
