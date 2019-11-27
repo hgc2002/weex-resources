@@ -9,8 +9,10 @@ Currently under construction. I Apologize.
 
 * Main site: https://weex.apache.org
 * Main repo: https://github.com/apache/incubator-weex
+* Weex UI repo: https://github.com/apache/incubator-weex-ui
 * Stackoverflow: https://stackoverflow.com/questions/tagged/weex
 * Segmentfault.com (in Chinesse): https://segmentfault.com/t/weex
+* The Incubator Weex site complete: https://github.com/apache/incubator-weex-site
 * Archived but useful for issues reference: https://github.com/alibaba/weex
 
 ## What is Weex
@@ -22,8 +24,9 @@ Currently under construction. I Apologize.
 ## Examples, demos, showcases, projects & repositories
 
 * A wonderful catalog: https://hanks10100.github.io/weex-vue-examples/
-
+* High quality weex demo: https://github.com/zwwill/yanxuan-weex-demo
 * Repositories in GitHub: https://github.com/search?q=weex
+* [A curated list of awesome Weex guides, articles, sites, tools, projects and resources (translated from Chinesse)](https://translate.googleusercontent.com/translate_c?depth=1&rurl=translate.google.com&sl=zh-CN&sp=nmt4&tl=en&u=https://github.com/joggerplus/awesome-weex&xid=17259,15700022,15700186,15700190,15700256,15700259,15700262,15700265,15700271,15700283&usg=ALkJrhiZ1Ikxe543Ec6fLN0JuRuN43jUoQ) - [Also the original page in Chinesse](https://github.com/joggerplus/awesome-weex)
 
 ## Tutorials & articles
 
