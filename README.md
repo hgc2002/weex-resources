@@ -16,7 +16,7 @@ Currently under construction. I Apologize.
 ## What is Weex
 
 * https://weex.apache.org/guide/introduction.html#overview
-* [Web based but with healthy limits (thanks, God!)] (https://weex.apache.org/guide/platform-difference.html#no-dom-in-weex)
+* [Web based but with healthy limits (thanks, God!)](https://weex.apache.org/guide/platform-difference.html#no-dom-in-weex)
 * [The weex variable in every page. Why is it so important?](https://weex.apache.org/docs/api/weex-variable.html#properties-and-methods)
 
 ## Examples, demos, showcases, projects & repositories
