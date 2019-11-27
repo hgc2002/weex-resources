@@ -1,5 +1,5 @@
 # weex-resources
-Resources for Weex Framework
+Useful resources for Weex Framework programming & its growing worldwide community
 
 ------------------------------------------
 Currently under construction. I Apologize.
